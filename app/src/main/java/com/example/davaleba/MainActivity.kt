@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
     lateinit var button9:Button
     lateinit var reset:Button
     var activeplayer=1
-    //couner cvladi gansazgvavs imas rom, rodesac erti motamashe gaimarjvebs agar daechiros arcert buttons
+    //couner cvladi gansazgvavs imas rom, rodesac erti motamashe gaimarjvebs da tamashi morcheba, vegar daechiros arcert buttons
     private var counter=0
 
     //score 1 da score 2 cvladebia romelic stringshi shedis ${} it, textViewbshi
